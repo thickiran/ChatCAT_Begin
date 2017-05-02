@@ -1,0 +1,5 @@
+{
+  "host": "http://localhost:3000",
+  "dbURI": "mongodb://admin:admin@ds153657.mlab.com:53657/codendesigndb",
+  "sessionSecret": "catscanfly"
+}
